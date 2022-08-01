@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  background-color: initial;
+}
+
+.btn-success {
+  background-color: #198754;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+}
